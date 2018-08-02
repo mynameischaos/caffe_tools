@@ -8,7 +8,7 @@ import numpy as np
 import google.protobuf as pb
 import google.protobuf.text_format
 # add caffe/python path
-path.append('/data1/henryzhong/channel-pruning_face_v2.0/caffe/python')
+path.append('caffe/python')
 
 import argparse
 import caffe
